@@ -1,1 +1,2 @@
-# Zaliczenie
+# Zaliczenie Githuba
+## Michał Kucharski
